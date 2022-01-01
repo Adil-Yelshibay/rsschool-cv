@@ -9,12 +9,12 @@ I want to work with computer software or in general IT Development direction. I 
 **My skills, or things I worked with:**  
 *Programming languages*  
 - C++
-- C#
+- C#  
 *Web development*  
 - HTML
 - CSS
-- JS
-*Frameworks*  
+- JS  
+*Frameworks*
 - Vue
 
 **Education**  
