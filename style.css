@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(147, 255, 219);
+    display: flex;
+}
+.mainInfo{
+    background-color: white;
+    margin: 0px 50px 0px 50px;
+    padding: 0px 50px 10px 50px;
+}
